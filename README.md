@@ -7,7 +7,7 @@ Learn Something Good & Do Something Better
 
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLkyGuIcLcmx2qXaZkjCL8-P78i2J5rDOa">Youtube Palylist Link</a>
 
-<img width="100%" src="https://github.com/rupomsoft/Express-js-tutorial-bangla/blob/master/Preview.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/rupomsoft/Express-js-tutorial-bangla/main/Preview.png"/>
 
 
 ### Licensing
