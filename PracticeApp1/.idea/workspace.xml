@@ -44,6 +44,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,7 +56,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604156449588</updated>
-      <workItem from="1604156450988" duration="140000" />
+      <workItem from="1604156450988" duration="1495000" />
+      <workItem from="1604505578100" duration="4300000" />
+      <workItem from="1604513860707" duration="139000" />
     </task>
     <servers />
   </component>
@@ -71,5 +75,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="40" y="0" key="SettingsEditor" timestamp="1604510251795">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="40" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1604510251795" />
   </component>
 </project>
