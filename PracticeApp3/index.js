@@ -1,19 +1,30 @@
-var express = require('express');
-var app = express();
+var express=require('express')
+var app=express();
 
 
-app.use(function (req,res,middle) {
-    console.log('I am middle');
-    middle();
+app.get('/',function (req,res) {
+    res.send("This is home page")
 })
 
 
-app.get('/', function(req, res,middle){
-    res.send("Home Page");
-});
+app.get('/contact',function (req,res) {
+    res.send("This is contact page")
+})
 
 
 
 
+app.use('/about',function (req,res,next) {
+    console.log("I am about middleware")
+    next()
+})
 
-app.listen(3000);
+
+app.get('/about',function (req,res) {
+    res.send("This is about page")
+})
+
+
+
+
+app.listen(5000)
